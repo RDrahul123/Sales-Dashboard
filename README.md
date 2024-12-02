@@ -25,13 +25,13 @@ The Sales Analysis Dashboard provides comprehensive insights into:
 ---
 
 ## 📷 Dashboard Screenshots
-![Sales report data_page-0001](https://github.com/user-attachments/assets/ac90a8c0-f734-436b-bb9c-e83afac4acce)
+![Sales report data3_page-0004](https://github.com/user-attachments/assets/6112d3cf-1da0-4c59-9902-235e405b3593)
 
 ### 1. Dashboard Overview
-![Sales report data_page-0003](https://github.com/user-attachments/assets/161d2337-bf73-4474-b4d2-b89be59f4049)
+![Sales report data3_page-0002](https://github.com/user-attachments/assets/dbc5232c-5f51-44b7-9673-e22b13a747a7)
 
-### 2. Category Performance
-![Sales report data_page-0002](https://github.com/user-attachments/assets/f10facd4-b2c0-4530-b80c-aa678bad7a7d)
+### 2. Customer Performance
+![Sales report data_page-0003](https://github.com/user-attachments/assets/01c8b134-f855-4bb8-aed9-0c2697843958)
 
 ---
 
